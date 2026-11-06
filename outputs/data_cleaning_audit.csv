@@ -1,0 +1,12 @@
+,Value
+raw_rows,541909.0
+after_exact_deduplication,536641.0
+after_required_field_filter,536641.0
+cancellation_rows_excluded,9251.0
+positive_sales_rows,524878.0
+sales_rows_missing_customer_id,132186.0
+unique_invoices,19960.0
+identified_customers,4338.0
+unique_products,3922.0
+countries,38.0
+revenue_gbp,10642110.804
